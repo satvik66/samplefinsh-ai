@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Local data and credentials
+*.db
+*.sqlite
+*.sqlite3
+.env
+.streamlit/secrets.toml
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
